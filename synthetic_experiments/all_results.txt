@@ -1,0 +1,96 @@
+correlated, nn, alpha: 0.01
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.0015772870662460567, tpr: 0.04256480218281037
+directionless OSFT fdr: 0.00535260589479912, tpr: 0.09462429792318673
+
+correlated, nn, alpha: 0.05
+directioned IRT fdr: 0.0019305019305019305, tpr: 0.06930422919508868
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.01654582939749108, tpr: 0.21173708587026002
+directionless OSFT fdr: 0.04122510106172146, tpr: 0.4083977082764811
+
+correlated, nn, alpha: 0.1
+directioned IRT fdr: 0.05892668799368776, tpr: 0.5942191988196243
+directionless IRT fdr: 0.05249986149710133, tpr: 0.5470451902018956
+directioned OSFT fdr: 0.04829506132973363, tpr: 0.3668641112305057
+directionless OSFT fdr: 0.07575258144582242, tpr: 0.5017690947657971
+
+correlated, nn, alpha: 0.2
+directioned IRT fdr: 0.12914183004380586, tpr: 0.716681440493369
+directionless IRT fdr: 0.13014127050917618, tpr: 0.6411058377915838
+directioned OSFT fdr: 0.14204762443575028, tpr: 0.6112509589975987
+directionless OSFT fdr: 0.14335530639757893, tpr: 0.6056750085921793
+
+independent, nn, alpha: 0.01
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.0040432475166366656, tpr: 0.6589447604130546
+directionless OSFT fdr: 0.007425138988076225, tpr: 0.6656622765499106
+
+independent, nn, alpha: 0.05
+directioned IRT fdr: 0.027919089203559833, tpr: 0.8699935385856105
+directionless IRT fdr: 0.02987722838858285, tpr: 0.825056619145909
+directioned OSFT fdr: 0.0481596015473792, tpr: 0.8620955090927513
+directionless OSFT fdr: 0.04412357692290414, tpr: 0.8269556603569445
+
+independent, nn, alpha: 0.1
+directioned IRT fdr: 0.07125419855492245, tpr: 0.9505221300264848
+directionless IRT fdr: 0.05821007556374167, tpr: 0.8803103741708764
+directioned OSFT fdr: 0.1017762994781928, tpr: 0.9178784798521246
+directionless OSFT fdr: 0.09026269063336864, tpr: 0.8740709930673265
+
+independent, nn, alpha: 0.2
+directioned IRT fdr: 0.1398277787906026, tpr: 0.9791838865213622
+directionless IRT fdr: 0.1373163859059133, tpr: 0.9139541192421706
+directioned OSFT fdr: 0.21211427160613866, tpr: 0.9626110564459909
+directionless OSFT fdr: 0.189735145884583, tpr: 0.9102961909701934
+
+independent, disc, alpha: 0.01
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.003366223542196075, tpr: 0.41950980188312526
+directionless OSFT fdr: 0.0034763393892571215, tpr: 0.2637301721018407
+
+independent, disc, alpha: 0.05
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.0066595471835214125, tpr: 0.8369974337397318
+directionless OSFT fdr: 0.0066829000031583055, tpr: 0.833771029742055
+
+independent, disc, alpha: 0.1
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.0066595471835214125, tpr: 0.8369974337397318
+directionless OSFT fdr: 0.0066829000031583055, tpr: 0.833771029742055
+
+independent, disc, alpha: 0.2
+directioned IRT fdr: 0.0027170106131385683, tpr: 0.39366864635174376
+directionless IRT fdr: 0.0027245183534697916, tpr: 0.39254457382577035
+directioned OSFT fdr: 0.0066595471835214125, tpr: 0.8369974337397318
+directionless OSFT fdr: 0.0066829000031583055, tpr: 0.833771029742055
+
+correlated, disc, alpha: 0.01
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.0, tpr: 0.0
+directionless OSFT fdr: 0.0, tpr: 0.0
+
+correlated, disc, alpha: 0.05
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.0, tpr: 0.0
+directionless OSFT fdr: 0.0, tpr: 0.0
+
+correlated, disc, alpha: 0.1
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.02857142857142857, tpr: 0.000785751702462022
+directionless OSFT fdr: 0.0, tpr: 0.0
+
+correlated, disc, alpha: 0.2
+directioned IRT fdr: 0.0, tpr: 0.0
+directionless IRT fdr: 0.0, tpr: 0.0
+directioned OSFT fdr: 0.07349875325746638, tpr: 0.025060076072681035
+directionless OSFT fdr: 0.04426877470355731, tpr: 0.00439472097541368
+
